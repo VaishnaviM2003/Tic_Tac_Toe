@@ -5,11 +5,13 @@ Implementation of the classic Tic-Tac-Toe game using Python.
 To run this Tic-Tac-Toe game on your local machine, follow these steps:
 
 1. Clone the repository:
+
 ` sh git clone https://github.com/VaishnaviM2003/Tic_Tac_Toe.git
+
 cd Tic_Tac_Toe
 `
 
-2. Set up a virtual environment (optional but recommended):
+3. Set up a virtual environment (optional but recommended):
 \`\`\`sh
 python3 -m venv venv
 source venv/scripts/activate
