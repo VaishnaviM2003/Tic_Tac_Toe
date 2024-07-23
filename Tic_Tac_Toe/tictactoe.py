@@ -1,4 +1,4 @@
-import tkinter #tk-interface (graphical user interface library)
+import tkinter #tk-interface (GUI library)
 
 def set_tile(row, column):
     global curr_player
