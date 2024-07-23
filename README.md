@@ -23,5 +23,6 @@ Run the game by executing the following command:
 `python Tic_Tac_Toe.py`
 
 ### Output Sample
-![Screenshot (287)](https://github.com/user-attachments/assets/f6d84996-6214-4c4c-89f2-ded8fe1403fc)
+![Screenshot (287)](https://github.com/user-attachments/assets/9d5228f0-9db1-477a-a23f-f508a46766f8)
+
 
