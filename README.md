@@ -1,7 +1,8 @@
 # Tic_Tac_Toe 🎮
-Implementation of the classic Tic-Tac-Toe game using Python.
+Implementation of the classic Tic-Tac-Toe game using Python. 
+Single-player mode: Play against a computer AI with adjustable difficulty.
 
-### Installation
+## Installation
 To run this Tic-Tac-Toe game on your local machine, follow these steps:
 
 1. Clone the repository:
@@ -17,12 +18,12 @@ To run this Tic-Tac-Toe game on your local machine, follow these steps:
 
 `source venv/scripts/activate`
 
-### Usage
+## Usage
 Run the game by executing the following command:
 
 `python Tic_Tac_Toe.py`
 
-### Output Sample
+## Output Sample
 ![Screenshot (287)](https://github.com/user-attachments/assets/9d5228f0-9db1-477a-a23f-f508a46766f8)
 
 
