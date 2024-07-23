@@ -6,8 +6,8 @@ To run this Tic-Tac-Toe game on your local machine, follow these steps:
 
 1. Clone the repository:
 
-` sh git clone https://github.com/VaishnaviM2003/Tic_Tac_Toe.git
-
+` 
+sh git clone https://github.com/VaishnaviM2003/Tic_Tac_Toe.git
 cd Tic_Tac_Toe
 `
 
